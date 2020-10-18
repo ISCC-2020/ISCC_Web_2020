@@ -1,6 +1,6 @@
                                                     
-						    Innerve Summer of Code 2020
-						   ******************************
+						 Innerve Summer of Code 2020
+						******************************
 													
 Based on the famous Google summer of code , we at Innerve  brought to you our version of it - The Innerve summer of code. We will 
 provide you with two open-source coding projects during the summer. The program is open for all university students.
@@ -43,6 +43,6 @@ Commit it on your github repository and hosting it on github.io and share us the
 
 For any queries contact: 
 ------------------------
-    Deekshita Verma  - deekshitaverma@gmail.com,  +918700024906
-    Mansi Sharma - mansiisharma035@gmail.com,  +918920024132
+    Mansi Sharma - mansiisharma035@gmail.com,  +91 8920024132    
+    Deekshita Verma  - deekshitaverma@gmail.com,  +91 8700024906
 
